@@ -1,0 +1,9 @@
+#Go to ( https://steamcommunity.com/dev/apikey ) and paste API key below
+
+#Put Username on line below
+
+#Put Password on line below
+
+#Put shared secret on line below
+
+#Put Backpack.tf API Key below. Go to https://backpack.tf/developer/apikey/view for help.
