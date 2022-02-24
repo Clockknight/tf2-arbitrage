@@ -93,6 +93,7 @@ def getAuthCode():
 def scrapeScrap(authCode):
 
     #Browser setup
+    #Makes sure most recent chrome driver is used to avoid bugs
     browser = webdriver.Chrome(ChromeDriverManager().install())
     browser.maximize_window()
     browser.get("https://scrap.tf/buy/hats")
